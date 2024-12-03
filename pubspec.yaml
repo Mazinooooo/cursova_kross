@@ -1,0 +1,40 @@
+name: cursova
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.0+4
+  sqflite_common_ffi_web:
+  sqflite_common_ffi:
+  sqlite3_flutter_libs:
+  path_provider:
+  google_fonts:
+  flutter_launcher_icons:
+
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+  uses-material-design: true
+
+
+
+
